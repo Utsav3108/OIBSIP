@@ -13,18 +13,18 @@
 
 ### Task 3
 - Task 3 was a Regression Problem.
-- It was to predict Car Price based on the given data.
+- It was to `predict Car Price` based on the given data.
 - I have tries multiple regressor for this task and `Random Forest Regressor` worked best.
 - `Task 3` Folder contains it's CSV Dataset and Jupyter Notebook.
 
 ### Task 4
 - Task 4 was a Problem of `Natural Language Processing`
-- It was to detect wheather email was spam or not.
+- It was `to detect wheather email was spam or not`.
 - For this I have used `SMOTE` as classes were imbalanced and used Logistic Regression for Prediction.
 - Folder of `Task 4` contains Dataset and its Jupyter Notebook.
 
 ### Task 5
 - Task 5 was again a Regression problem.
-- It was to predict Sales from Advertising Mediums like TV, Radio, Newspaper
+- It was `to predict Sales from Advertising Mediums like TV, Radio, Newspaper`.
 - I have used `Decision Tree Regressor` for this Purpose.
 - Folder of `Task 5` contains Dataset and its Jupyter Notebook.
